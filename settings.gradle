@@ -1,0 +1,5 @@
+rootProject.name = 'service-registry-demo'
+include 'eureka-server'
+include 'eureka-customer'
+include 'eureka-fraud'
+
